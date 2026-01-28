@@ -20,8 +20,7 @@ Another inefficient way to bypass GTA5 intro video. By replacing the original `r
 ### Performance
 
 To showcase the effectiveness of this method, a comparison video has been provided.
-
-[![YouTube](http://img.youtube.com/vi/U5xZESQhcQk/0.jpg)](https://youtu.be/U5xZESQhcQk)
+[YouTube](https://youtu.be/U5xZESQhcQk)
 
 In this video:
 
